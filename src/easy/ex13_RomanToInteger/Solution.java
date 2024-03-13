@@ -1,8 +1,5 @@
 package easy.ex13_RomanToInteger;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class Solution {
 
     public static int getValue(char c){
